@@ -2,7 +2,7 @@
   <h1>Welcome to my GitHub page 🦊</h1>
 </div>
 
-As a passionate software developer I´m primarily focused on backend development using C++ and Rust. However, I also have experience in Python and Java/Kotlin. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also hold an [EXIN Scrum Master certification](https://mylogin.exin.nl/AppPool_4/polarserver.asp?ToolName=CertificateCheckTool&LastName=Juraschka&CertificateNumber=6509563.20853875&ModuleID=630589&SID=67CE8A028C7AD649BC7C153D0B58C185&PageID=0) that validates my knowledge and skills in leading and facilitating agile development teams.
+As a passionate software developer I'm primarily focused on backend development using C++ and Rust. However, I also have experience in Python and Java/Kotlin. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also hold an [EXIN Scrum Master certification](https://mylogin.exin.nl/AppPool_4/polarserver.asp?ToolName=CertificateCheckTool&LastName=Juraschka&CertificateNumber=6509563.20853875&ModuleID=630589&SID=67CE8A028C7AD649BC7C153D0B58C185&PageID=0) that validates my knowledge and skills in leading and facilitating agile development teams.
 
 Throughout my professional journey, I've gained valuable experience working with various technologies and tools. From working with Protocol Buffers and gRPC to designing appealing user interfaces using Bootstrap 5, I've continuously expanded my knowledge and embraced new challenges. I also have experience with relational database models, specifically MySQL and MariaDB.
 
