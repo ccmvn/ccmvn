@@ -18,7 +18,3 @@ Thank you for visiting, and I hope you enjoy exploring my projects! 🦊
     <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats">
   </details>
 </div>
-<br>
-<div align="center">
-  <h2>Agile Methodologies and Scrum Master Certification</h2>
-</div>
