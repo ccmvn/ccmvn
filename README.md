@@ -10,7 +10,7 @@ On this GitHub profile, you'll find a collection of projects I've worked on. I'm
 
 If you have any questions, want to exchange ideas, or are interested in contributing to any of my projects, feel free to reach out. I'm open to new possibilities and enjoy engaging with like-minded individuals.
 
-Thank you for visiting, and I hope you enjoy exploring my projects! 🦊
+Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 <br>
 <div align="center">
   <details open>
