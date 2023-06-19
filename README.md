@@ -15,10 +15,6 @@ Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 <div align="center">
   <details open>
     <summary><b>GitHub stats:</b></summary>
-
-  ![Stats](https://github-readme-stats-ccmvn.vercel.app/api?username=ccmvn\&include_all_commits=true\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github)  
-  <br>
-  ![Top Langs](https://github-readme-stats-ccmvn.vercel.app/api/top-langs/?username=ccmvn\&include_all_commits=true\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github)
-
+    <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats">
   </details>
 </div>
