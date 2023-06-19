@@ -13,7 +13,7 @@ If you have any questions, want to exchange ideas, or are interested in contribu
 Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 <br>
 <div align="center">
-  <details open>
+  <details closed>
     <summary><b>Stats:</b></summary>
     <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/overview.svg#gh-dark-mode-only" alt="overview">
     <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/languages.svg#gh-dark-mode-only" alt="languages">
