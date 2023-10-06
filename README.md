@@ -1,17 +1,36 @@
 <div align="center">
-  <h1>Welcome to my GitHub page 🦊</h1>
+
+  # Welcome to my GitHub Page 🦊
+
 </div>
 
-As a passionate software developer I'm primarily focused on backend development using C++ and Rust. However, I also have experience in Python and Java/Kotlin. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also hold an [EXIN Scrum Master certification](https://mylogin.exin.nl/AppPool_4/polarserver.asp?ToolName=CertificateCheckTool&LastName=Juraschka&CertificateNumber=6509563.20853875&ModuleID=630589&SID=67CE8A028C7AD649BC7C153D0B58C185&PageID=0) that validates my knowledge and skills in leading and facilitating agile development teams.
+Hello there! 👋 As a passionate software developer, my primary focus is on backend development. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also have experience in leading and facilitating agile development teams.
 
-Throughout my professional journey, I've gained valuable experience working with various technologies and tools. From working with Protocol Buffers and gRPC to designing appealing user interfaces using Vue.js, Bootstrap 5, and Tailwind CSS, I've continuously expanded my knowledge and embraced new challenges. I also have experience with relational database models, specifically MySQL and MariaDB.
+For additional details about my background, including certifications and other profiles like LinkedIn, check out my [website](https://ccmvn.co).
 
-On this GitHub profile, you'll find a collection of projects I've worked on. I'm always eager to share my insights and solutions with fellow developers and appreciate any feedback or collaboration opportunities.
+## 🛠 Tech Stack
 
-If you have any questions, want to exchange ideas, or are interested in contributing to any of my projects, feel free to reach out. I'm open to new possibilities and enjoy engaging with like-minded individuals.
+**Languages**:  
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge&logoColor=white&color=333333) ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust&style=for-the-badge&logoColor=white&color=333333) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge&logoColor=white&color=333333) ![Java](https://img.shields.io/badge/-Java-red?logo=java&style=for-the-badge&logoColor=white&color=333333) ![Kotlin](https://img.shields.io/badge/-Kotlin-green?logo=kotlin&style=for-the-badge&logoColor=white&color=333333) ![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&style=for-the-badge&logoColor=white&color=333333) ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&style=for-the-badge&logoColor=white&color=333333) ![Lua](https://img.shields.io/badge/-Lua-blueviolet?logo=lua&style=for-the-badge&logoColor=white&color=333333)
+
+**Frameworks**:  
+![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?logo=vue.js&style=for-the-badge&logoColor=white&color=333333) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&style=for-the-badge&logoColor=white&color=333333) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwind-css&style=for-the-badge&logoColor=white&color=333333)
+
+**Build & Other Tools**:  
+![CMake](https://img.shields.io/badge/-CMake-red?logo=cmake&style=for-the-badge&logoColor=white&color=333333) ![Protocol Buffers](https://img.shields.io/badge/-Protocol%20Buffers-blue?logo=protobuf&style=for-the-badge&logoColor=white&color=333333) ![gRPC](https://img.shields.io/badge/-gRPC-green?logo=grpc&style=for-the-badge&logoColor=white&color=333333) ![Hunter](https://img.shields.io/badge/-Hunter-orange?style=for-the-badge&logoColor=white&color=333333) ![Vcpkg](https://img.shields.io/badge/-Vcpkg-lightgrey?style=for-the-badge&logoColor=white&color=333333)
+
+**Databases**:  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&color=333333) ![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen?logo=mariadb&style=for-the-badge&logoColor=white&color=333333) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?logo=sqlite&style=for-the-badge&logoColor=white&color=333333)
+
+**Operating Systems**:  
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
+
+Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and collaboration. If you have questions or would like to discuss potential collaborations, don't hesitate to get in touch.
 
 Thank you for visiting, I hope you enjoy exploring my projects! 🦊
-<br>
+
+---
+
 <div align="center">
   <details open>
     <summary><b>Stats:</b></summary>
