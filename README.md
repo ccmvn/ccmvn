@@ -11,7 +11,7 @@ For additional details about my background, including certifications and other p
 ## 🛠 Tech Stack
 
 **Languages**:  
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge&logoColor=white&color=333333) ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust&style=for-the-badge&logoColor=white&color=333333) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge&logoColor=white&color=333333) ![Java](https://img.shields.io/badge/-Java-red?logo=java&style=for-the-badge&logoColor=white&color=333333) ![Kotlin](https://img.shields.io/badge/-Kotlin-green?logo=kotlin&style=for-the-badge&logoColor=white&color=333333) ![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&style=for-the-badge&logoColor=white&color=333333) ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&style=for-the-badge&logoColor=white&color=333333) ![Lua](https://img.shields.io/badge/-Lua-blueviolet?logo=lua&style=for-the-badge&logoColor=white&color=333333)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge&logoColor=white&color=333333) ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust&style=for-the-badge&logoColor=white&color=333333) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge&logoColor=white&color=333333) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=333333) ![Kotlin](https://img.shields.io/badge/-Kotlin-green?logo=kotlin&style=for-the-badge&logoColor=white&color=333333) ![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&style=for-the-badge&logoColor=white&color=333333) ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&style=for-the-badge&logoColor=white&color=333333) ![Lua](https://img.shields.io/badge/-Lua-blueviolet?logo=lua&style=for-the-badge&logoColor=white&color=333333)
 
 **Frameworks**:  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?logo=vue.js&style=for-the-badge&logoColor=white&color=333333) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&style=for-the-badge&logoColor=white&color=333333) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwind-css&style=for-the-badge&logoColor=white&color=333333)
@@ -21,6 +21,9 @@ For additional details about my background, including certifications and other p
 
 **Databases**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&color=333333) ![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen?logo=mariadb&style=for-the-badge&logoColor=white&color=333333) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?logo=sqlite&style=for-the-badge&logoColor=white&color=333333)
+
+**Web Servers**:  
+![Nginx](https://img.shields.io/badge/-Nginx-blue?logo=nginx&style=for-the-badge&logoColor=white&color=333333)
 
 **Operating Systems**:  
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
