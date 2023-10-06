@@ -22,11 +22,8 @@ For additional details about my background, including certifications and other p
 **Databases**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&color=333333) ![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen?logo=mariadb&style=for-the-badge&logoColor=white&color=333333) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?logo=sqlite&style=for-the-badge&logoColor=white&color=333333)
 
-**Web Servers**:  
-![Nginx](https://img.shields.io/badge/-Nginx-blue?logo=nginx&style=for-the-badge&logoColor=white&color=333333)
-
-**Operating Systems**:  
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
+**Web Servers & Operating Systems**:  
+![Nginx](https://img.shields.io/badge/-Nginx-blue?logo=nginx&style=for-the-badge&logoColor=white&color=333333) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
 
 Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and co-operation. If you have questions or would like to discuss potential co-operation, don't hesitate to get in touch.
 
