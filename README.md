@@ -32,7 +32,7 @@ Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 ---
 
 <div align="center">
-  <details open>
+  <details>
     <summary><b>Stats:</b></summary>
     <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/overview.svg#gh-dark-mode-only" alt="overview">
     <img src="https://github.com/ccmvn/ccmvn/blob/master/generated/languages.svg#gh-dark-mode-only" alt="languages">
