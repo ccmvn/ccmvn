@@ -29,7 +29,7 @@ Feel free to explore my repositories. I enjoy sharing my projects and am always 
 
 Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 
----
+##
 
 <div align="center">
   <details>
