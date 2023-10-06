@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Welcome to my GitHub Page 🦊
+  # 🦊 Welcome to my GitHub Page
 
 </div>
 
@@ -25,7 +25,7 @@ For additional details about my background, including certifications and other p
 **Operating Systems**:  
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
 
-Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and collaboration. If you have questions or would like to discuss potential collaborations, don't hesitate to get in touch.
+Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and co-operation. If you have questions or would like to discuss potential co-operation, don't hesitate to get in touch.
 
 Thank you for visiting, I hope you enjoy exploring my projects! 🦊
 
