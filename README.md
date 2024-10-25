@@ -6,8 +6,6 @@
 
 Hello there! 👋 As a passionate software developer, my primary focus is on backend development. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also have experience in leading and facilitating agile development teams.
 
-For additional details about my background, including certifications and other profiles like LinkedIn, check out my [website](https://ccmvn.co).
-
 ## 🛠 Tech Stack
 
 **Languages**:  
