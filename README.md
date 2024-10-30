@@ -6,24 +6,9 @@
 
 Hey, my name is Marvin! 👋 I&apos;m a dedicated software developer with a primary focus on backend development. I enjoy creating innovative solutions and writing high-quality, scalable, robust, and maintainable code. Additionally, I have experience in leading and facilitating agile development teams.
 
-## 🛠 Tech Stack
+For additional details about my background, please check out my website. Thank you for visiting! 🦊
 
-**Languages**:  
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge&logoColor=white&color=333333) ![Rust](https://img.shields.io/badge/-Rust-orange?logo=rust&style=for-the-badge&logoColor=white&color=333333) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=for-the-badge&logoColor=white&color=333333) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=333333) ![Kotlin](https://img.shields.io/badge/-Kotlin-green?logo=kotlin&style=for-the-badge&logoColor=white&color=333333) ![C#](https://img.shields.io/badge/-C%23-purple?logo=c-sharp&style=for-the-badge&logoColor=white&color=333333) ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&style=for-the-badge&logoColor=white&color=333333) ![TS](https://img.shields.io/badge/-TS-333333?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-blueviolet?logo=lua&style=for-the-badge&logoColor=white&color=333333)
-![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&style=for-the-badge&logoColor=white&color=333333)
-
-**Frameworks**:  
-![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?logo=vue.js&style=for-the-badge&logoColor=white&color=333333) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge&logoColor=white&color=333333) ![React](https://img.shields.io/badge/-React-blue?logo=react&style=for-the-badge&logoColor=white&color=333333) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&style=for-the-badge&logoColor=white&color=333333) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?logo=tailwind-css&style=for-the-badge&logoColor=white&color=333333)
-
-**Build & Other Tools**:  
-![CMake](https://img.shields.io/badge/-CMake-red?logo=cmake&style=for-the-badge&logoColor=white&color=333333) ![Protocol Buffers](https://img.shields.io/badge/-Protocol%20Buffers-blue?logo=protobuf&style=for-the-badge&logoColor=white&color=333333) ![gRPC](https://img.shields.io/badge/-gRPC-green?logo=grpc&style=for-the-badge&logoColor=white&color=333333) ![Hunter](https://img.shields.io/badge/-Hunter-orange?style=for-the-badge&logoColor=white&color=333333) ![Vcpkg](https://img.shields.io/badge/-Vcpkg-lightgrey?style=for-the-badge&logoColor=white&color=333333)
-
-**Databases**:  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&style=for-the-badge&logoColor=white&color=333333) ![MariaDB](https://img.shields.io/badge/-MariaDB-brightgreen?logo=mariadb&style=for-the-badge&logoColor=white&color=333333) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white&color=333333) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?logo=sqlite&style=for-the-badge&logoColor=white&color=333333)
-
-**Web Servers & Operating Systems**:  
-![Nginx](https://img.shields.io/badge/-Nginx-blue?logo=nginx&style=for-the-badge&logoColor=white&color=333333) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
+</div>
 
 Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and collaboration. If you have any questions or would like to discuss potential collaboration, please don't hesitate to get in touch.
 
