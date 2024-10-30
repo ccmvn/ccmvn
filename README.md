@@ -1,10 +1,10 @@
 <div align="center">
 
-  # 🦊 Welcome to my GitHub Page
+  # About Me 🦊
 
 </div>
 
-Hello there! 👋 As a passionate software developer, my primary focus is on backend development. I enjoy creating innovative solutions and writing high-quality code that is scalable, robust, and maintainable. I also have experience in leading and facilitating agile development teams.
+Hey, my name is Marvin! 👋 I&apos;m a dedicated software developer with a primary focus on backend development. I enjoy creating innovative solutions and writing high-quality, scalable, robust, and maintainable code. Additionally, I have experience in leading and facilitating agile development teams.
 
 ## 🛠 Tech Stack
 
@@ -25,9 +25,9 @@ Hello there! 👋 As a passionate software developer, my primary focus is on bac
 **Web Servers & Operating Systems**:  
 ![Nginx](https://img.shields.io/badge/-Nginx-blue?logo=nginx&style=for-the-badge&logoColor=white&color=333333) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?logo=freebsd&style=for-the-badge&logoColor=white&color=333333) ![Linux](https://img.shields.io/badge/-Linux-green?logo=linux&style=for-the-badge&logoColor=white&color=333333) ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=for-the-badge&logoColor=white&color=333333) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&style=for-the-badge&logoColor=white&color=333333)
 
-Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and co-operation. If you have questions or would like to discuss potential co-operation, don't hesitate to get in touch.
+Feel free to explore my repositories. I enjoy sharing my projects and am always open to feedback and collaboration. If you have any questions or would like to discuss potential collaboration, please don't hesitate to get in touch.
 
-Thank you for visiting, I hope you enjoy exploring my projects! 🦊
+Thank you for visiting; I hope you enjoy exploring my projects! 🦊
 
 ##
 
