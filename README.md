@@ -4,7 +4,7 @@
 
 </div>
 
-Hey, my name is Marvin! 👋 I&apos;m a dedicated software developer with a primary focus on backend development. I enjoy creating innovative solutions and writing high-quality, scalable, robust, and maintainable code. Additionally, I have experience in leading and facilitating agile development teams. For additional details about my background, please check out my website.
+Hey, my name is Marvin! 👋 I'm a software developer with a primary focus on backend development. I focus on developing innovative solutions and writing high-quality, scalable, robust, and maintainable code. Additionally, I have experience in leading and supporting agile development teams. For additional details about my background, please check out my website.
 
 ##
 
